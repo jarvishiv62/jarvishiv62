@@ -1,7 +1,4 @@
 
-**jarvishiv62/jarvishiv62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <!-- Profile README for jarvishiv62 -->
 
 <h1 align="center">Hi there 👋, I'm Utkarsh Maurya</h1>
