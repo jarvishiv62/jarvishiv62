@@ -54,7 +54,6 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/mock-link" target="_blank"><img alt="LinkedIn" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/></a>
-  <a href="https://twitter.com/mock-link" target="_blank"><img alt="X" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/x.svg"/></a>
   <a href="https://yourwebsite.com" target="_blank"><img alt="Website" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/internetarchive.svg"/></a>
   <a href="mailto:mock-email@example.com" target="_blank"><img alt="Email" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg"/></a>
 </p>
