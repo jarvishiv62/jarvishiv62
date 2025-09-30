@@ -1,67 +1,107 @@
-
 <!-- Profile README for jarvishiv62 -->
 
-<h1 align="center">Hi there 👋, I'm Utkarsh Maurya</h1>
-<h3 align="center">Student & Aspiring Web Developer | Final Year B.Tech (IT)</h3>
+<div align="center">
+
+# 👋 Hello, I'm Utkarsh Maurya
+
+### 🚀 Student & Aspiring Web Developer | Final Year B.Tech (IT)
 
 <p align="center">
-  <em>The most positive and curious mind, eager to learn and always ready to add a creative touch to existing technologies.</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Creative+Problem+Solver;Always+Learning+%26+Growing;Full+Stack+Web+Developer;Positive+%26+Curious+Mind" alt="Typing SVG" />
 </p>
-
-<p align="center"><b>“If you will not then who will !!”</b></p>
-
----
-
-### 🚀 About Me
-
-- 🎓 Final year B.Tech student, Information Technology
-- 🌱 Always learning and building real-world projects
-- 🧑‍💻 Passionate about web development & creative solutions
-- 🏆 Known for positivity, curiosity, and a can-do attitude
-
----
-
-### 🛠️ Tech Toolbox
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=flat-square&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)
-![API](https://img.shields.io/badge/api-%23007ACC.svg?&style=flat-square&logo=fastapi)
-
----
-
-### 🌟 Featured Projects
-
-- 🍰 [Bakery Website Clone (Laravel)](https://github.com/jarvishiv62/bakery-website-clone)  
-  _A full-fledged, dynamic bakery website built with Laravel. Showcases e-commerce features and modern UI._
-
-- 🌍 [Live Travel Website (Next.js)](https://github.com/Innovilla2025/travel-nextjs)  
-  _A real-world, production-ready web application powered by Next.js._
-
-- 🛠️ [Portfolio](https://github.com/jarvishiv62/Portfolio)  
-  _My personal portfolio site. Always evolving with my journey!_
-
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/mock-link" target="_blank"><img alt="LinkedIn" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/></a>
-  <a href="https://yourwebsite.com" target="_blank"><img alt="Website" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/internetarchive.svg"/></a>
-  <a href="mailto:mock-email@example.com" target="_blank"><img alt="Email" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg"/></a>
-</p>
-
----
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jarvishiv62&show_icons=true&theme=radical" alt="jarvishiv62's GitHub stats" />
+  <em>"If you will not then who will !!"</em>
 </p>
 
+</div>
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarvishiv62&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jarvishiv62&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jarvishiv62&theme=radical&hide_border=true&background=0D1117)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🔧 Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![API](https://img.shields.io/badge/API-007ACC?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+### 🍰 Bakery Website Clone (Laravel)
+[![View Project](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge)](https://github.com/jarvishiv62/bakery-website-clone)
+> A full-fledged, dynamic bakery website built with Laravel featuring e-commerce capabilities and modern UI design.
+
+### 🌍 Live Travel Website (Next.js)
+[![View Project](https://img.shields.io/badge/View_Project-4ECDC4?style=for-the-badge)](https://github.com/Innovilla2025/travel-nextjs)
+> A production-ready travel web application built with Next.js, showcasing real-world implementation.
+
+### 🎨 Portfolio Website
+[![View Project](https://img.shields.io/badge/View_Project-45B8D8?style=for-the-badge)](https://github.com/jarvishiv62/Portfolio)
+> My evolving personal portfolio that reflects my growth and journey in web development.
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Utkarsh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jarvishiv62&custom_title=Utkarsh's%20Contribution%20Graph&theme=react-dark&bg_color=0D1117&hide_border=true&line=22D3EE&point=22D3EE)](https://github.com/jarvishiv62)
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mock-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mock-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jarvishiv62)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Fun Fact
+> *"I believe every problem has a creative solution waiting to be discovered!"*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=jarvishiv62&color=blueviolet&style=flat-square)
+
+</div>
