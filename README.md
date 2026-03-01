@@ -93,52 +93,49 @@ const utkarsh = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🍰 Bakery Website Clone</h3>
+      <h3 align="center">💼 Advanced E-Commerce Platform</h3>
       <div align="center">  
         <a href="https://github.com/jarvishiv62/bakery-website-clone" target="_blank">
           <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
-        <p><strong>Laravel • PHP • MySQL</strong></p>
-        <p>Full-featured e-commerce platform with dynamic content management and modern UI</p>
+        <p><strong>Laravel • PHP • MySQL • Bootstrap</strong></p>
+        <p>Full-featured e-commerce platform with advanced inventory management, payment integration, and modern responsive UI</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🌍 Live Travel Website</h3>
+      <h3 align="center">🚀 Next.js Travel Platform</h3>
       <div align="center">  
         <a href="https://github.com/Innovilla2025/travel-nextjs" target="_blank">
           <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
-        <p><strong>Next.js • React • Tailwind</strong></p>
-        <p>Production-ready travel platform with seamless user experience</p>
+        <p><strong>Next.js • React • Tailwind CSS • API Integration</strong></p>
+        <p>Production-ready travel booking platform with seamless UX, server-side rendering, and optimized performance</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🎨 Portfolio Website</h3>
+      <h3 align="center">🎨 Interactive Portfolio Website</h3>
       <div align="center">  
         <a href="https://github.com/jarvishiv62/Portfolio" target="_blank">
           <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
-        <p><strong>HTML • CSS • JavaScript</strong></p>
-        <p>Personal portfolio showcasing my journey and projects</p>
+        <p><strong>HTML5 • CSS3 • JavaScript • Responsive Design</strong></p>
+        <p>Modern personal portfolio with smooth animations, interactive elements, and showcasing full-stack capabilities</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">✨ More Projects</h3>
+      <h3 align="center">⚡ Full-Stack REST API Service</h3>
       <div align="center">  
-        <a href="https://github.com/jarvishiv62?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/View_All-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="View All"/>
+        <a href="https://github.com/jarvishiv62" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
-        <p><strong>Explore my repositories</strong></p>
-        <p>Check out more exciting projects on my profile!</p>
+        <p><strong>Java • Laravel • REST API • Database Design</strong></p>
+        <p>Scalable backend service with RESTful architecture, comprehensive documentation, and production-ready deployment</p>
       </div>
     </td>
   </tr>
 </table>
-
-<br/>
-
 ### 📈 Activity Graph
 
 <div align="center">
