@@ -2,10 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Utkarsh%20Maurya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-### 🚀 Full Stack Developer | Final Year B.Tech (IT) | Problem Solver
+### 🚀 Full Stack Developer | Final Year B.Tech (IT) | Building Real Products
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=600&lines=Building+Digital+Experiences+%F0%9F%8C%9F;Creative+Problem+Solver+%F0%9F%92%A1;Always+Learning+%26+Growing+%F0%9F%93%88;Full+Stack+Web+Developer+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;Laravel+%7C+Next.js+%7C+MERN+Stack;AI+Integration+%26+Prompt+Engineering+%F0%9F%A4%96;Shipping+Real+Products+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,10 +27,11 @@
 const utkarsh = {
     location: "India 🇮🇳",
     education: "B.Tech in IT (Final Year)",
-    currentFocus: "Full Stack Development",
-    learning: ["Next.js", "Laravel", "Cloud Services"],
-    motto: "If you will not then who will !!",
-    hobbies: ["Coding", "Problem Solving", "Building Projects"]
+    currentFocus: "Full Stack Development + AI Integration",
+    stack: ["Laravel", "Next.js", "MERN", "Python"],
+    aiTools: ["Gemini API", "Claude", "Cursor", "Windsurf"],
+    certificate: "Prompt Engineering",
+    motto: "If you will not then who will !!"
 };
 ```
 
@@ -52,23 +53,37 @@ const utkarsh = {
 
 </details>
 
-<details>
+<details open>
 <summary><b>⚙️ Backend</b></summary>
 <br/>
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </details>
 
+<details open>
+<summary><b>🤖 AI & Data</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
+
 <details>
-<summary><b>🔧 Tools</b></summary>
+<summary><b>🔧 Tools & Workflow</b></summary>
 <br/>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </details>
@@ -93,49 +108,53 @@ const utkarsh = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">💼 Advanced E-Commerce Platform</h3>
-      <div align="center">  
-        <a href="https://github.com/jarvishiv62/bakery-website-clone" target="_blank">
+      <h3 align="center">🗓️ DailyDrive — Productivity Suite</h3>
+      <div align="center">
+        <a href="https://github.com/jarvishiv62/Productivity-Suite-Web-App" target="_blank">
           <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
-        <p><strong>Laravel • PHP • MySQL • Bootstrap</strong></p>
-        <p>Full-featured e-commerce platform with advanced inventory management, payment integration, and modern responsive UI</p>
+        <p><strong>Laravel 12 • PHP • MySQL • Bootstrap • PWA</strong></p>
+        <p>Full-stack productivity app with task scheduling, Pomodoro timer, diary, FullCalendar integration, gamification (points/streaks/badges), chatbot, and Progressive Web App support</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🚀 Next.js Travel Platform</h3>
-      <div align="center">  
-        <a href="https://github.com/Innovilla2025/travel-nextjs" target="_blank">
+      <h3 align="center">🏥 CareOps — Customer Management App</h3>
+      <div align="center">
+        <a href="https://github.com/jarvishiv62/Careops_hackathon" target="_blank">
           <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
-        <p><strong>Next.js • React • Tailwind CSS • API Integration</strong></p>
-        <p>Production-ready travel booking platform with seamless UX, server-side rendering, and optimized performance</p>
+        <a href="https://careops-hackathon-r1bn.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        </a>
+        <p><strong>TypeScript • Next.js • Vercel</strong></p>
+        <p>Hackathon-built customer management web app, deployed on Vercel. Built under time constraints with full functionality and production deployment</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🎨 Interactive Portfolio Website</h3>
-      <div align="center">  
-        <a href="https://github.com/jarvishiv62/Portfolio" target="_blank">
+      <h3 align="center">✈️ Travel Portal — Client Project</h3>
+      <div align="center">
+        <a href="https://github.com/jarvishiv62/Travel_portal" target="_blank">
           <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
-        <p><strong>HTML5 • CSS3 • JavaScript • Responsive Design</strong></p>
-        <p>Modern personal portfolio with smooth animations, interactive elements, and showcasing full-stack capabilities</p>
+        <p><strong>Next.js • JavaScript • Dynamic REST API</strong></p>
+        <p>Real client project built during internship. Travel booking website with dynamic backend API integration and server-side rendering</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">⚡ Full-Stack REST API Service</h3>
-      <div align="center">  
-        <a href="https://github.com/jarvishiv62" target="_blank">
+      <h3 align="center">🧠 Adaptive CNN — Image Enhancement</h3>
+      <div align="center">
+        <a href="https://github.com/jarvishiv62/Adaptive_CNN" target="_blank">
           <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
         </a>
-        <p><strong>Java • Laravel • REST API • Database Design</strong></p>
-        <p>Scalable backend service with RESTful architecture, comprehensive documentation, and production-ready deployment</p>
+        <p><strong>Python • CNN • Deep Learning • Computer Vision</strong></p>
+        <p>Adaptive CNN architecture for weak contrast image enhancement. Demonstrates applied deep learning and computer vision beyond standard web development</p>
       </div>
     </td>
   </tr>
 </table>
+
 ### 📈 Activity Graph
 
 <div align="center">
@@ -152,7 +171,7 @@ const utkarsh = {
 
 <br/><br/>
 
-**💡 "Every problem has a creative solution waiting to be discovered!"**
+**💡 "If you will not then who will !!"**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
