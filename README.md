@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mock-link"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mock-email@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white" /></a>
+  <a href="[(https://linkedin.com/in/utkarsh-maurya)]"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:virmauryauttu@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="[https://portfolio-utkarshv1.vercel.app/]"><img src="https://img.shields.io/badge/-Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=jarvishiv62&color=22D3EE&style=flat-square&label=Profile+Views" />
 </p>
 
